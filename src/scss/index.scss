@@ -1,0 +1,18 @@
+//@import "./includes/normalize.css";
+//@import "./includes/bootstrap.css";
+
+.adClass{
+  border-bottom-width: 0.2rem;
+  border-bottom-color: #990000;
+  padding-top: 0.2rem;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+};
+
+.price {
+  font-size: 2em;
+  text-align: center;
+  background-color: rgba(153, 0, 0, .5);
+  //color: #cccccc;
+};
